@@ -1,38 +1,41 @@
 {
-    "id": "urn:ngsi-ld:Question:TypeDePompeCaluire",
-    "type": "Question",
-    "title": "Quelle type de pompes étaient utilisées à l'usine des eaux de Caluire jusqu'en 1910 ?",
-    "answerExplanation": {
+  "id": "urn:ngsi-ld:Question:TypeDePompeCaluire",
+  "type": "Question",
+  "title": {
+    "type": "Property",
+    "value": "Quelle type de pompes étaient utilisées à l'usine des eaux de Caluire jusqu'en 1910 ?"
+  },
+  "answerExplanation": {
+    "type": "Property",
+    "value": "Mises en fonctionnement en 1856, 3 pompes à vapeur dites de Cornouailles produisent quelque 20 000 m³ d'eau par jour. Ces pompes mesurent 20 m de haut et 13 m de large pour un poids de 200 tonnes. Leur balancier de 35 tonnes s'actionne toutes les 6 secondes, permettant ainsi l'envoi de 600 m³ d'eau par heure. L'usine s'arrêta en 1910 et deux pompes furent démontées en 1938."
+  },
+  "answers": [
+    {
+      "type": "Property",
+      "value": "Pompe de Cornouailles",
+      "isCorrect": {
         "type": "Property",
-        "value": "Mises en fonctionnement en 1856, 3 pompes à vapeur dites de Cornouailles produisent quelque 20 000 m³ d'eau par jour. Ces pompes mesurent 20 m de haut et 13 m de large pour un poids de 200 tonnes. Leur balancier de 35 tonnes s'actionne toutes les 6 secondes, permettant ainsi l'envoi de 600 m³ d'eau par heure. L'usine s'arrêta en 1910 et deux pompes furent démontées en 1938."
+        "value": true
+      },
+      "datasetId": "urn:ngsi-ld:Dataset:Cornouailles"
     },
-    "answers": [
-        {
-            "type": "Property",
-            "value": "Pompe de Cornouailles",
-            "isCorrect": {
-                "type": "Property",
-                "value": true
-            },
-            "datasetId": "urn:ngsi-ld:Dataset:Cornouailles"
-        },
-        {
-            "type": "Property",
-            "value": "Pompe à cordes",
-            "isCorrect": {
-                "type": "Property",
-                "value": false
-            },
-            "datasetId": "urn:ngsi-ld:Dataset:Cordes"
-        },
-        {
-            "type": "Property",
-            "value": "Pompe à air",
-            "isCorrect": {
-                "type": "Property",
-                "value": false
-            },
-            "datasetId": "urn:ngsi-ld:Dataset:Air"
-        }
-    ]
+    {
+      "type": "Property",
+      "value": "Pompe à cordes",
+      "isCorrect": {
+        "type": "Property",
+        "value": false
+      },
+      "datasetId": "urn:ngsi-ld:Dataset:Cordes"
+    },
+    {
+      "type": "Property",
+      "value": "Pompe à air",
+      "isCorrect": {
+        "type": "Property",
+        "value": false
+      },
+      "datasetId": "urn:ngsi-ld:Dataset:Air"
+    }
+  ]
 }

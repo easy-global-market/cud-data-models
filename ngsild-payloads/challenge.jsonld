@@ -1,19 +1,32 @@
 {
-    "id": "urn:ngsi-ld:Challenge:0001",
-    "type": "Challenge",
-    "title": "Simone VEILLE",
-    "description": "Description du challenge",
-    "target": 15,
-    "hasQuiz": {
-        "type": "Relationship",
-        "object": "urn:ngsi-ld:Quiz:001"
-    },
-    "hasDuel": {
-        "type": "Relationship",
-        "object": "urn:ngsi-ld:Duel:001"
-    },
-    "hasExploration": {
-        "type": "Relationship",
-        "object": "urn:ngsi-ld:Exploration:001"
-    }
+  "id": "urn:ngsi-ld:Challenge:0001",
+  "type": "Challenge",
+  "title": {
+    "type": "Property",
+    "value": "Simone VEILLE"
+  },
+  "description": {
+    "type": "Property",
+    "value": "Description du challenge"
+  },
+  "target": {
+    "type": "Property",
+    "value": 15
+  },
+  "hasQuiz": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:Quiz:001"
+  },
+  "hasDuel": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:Duel:001"
+  },
+  "hasExploration": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:Exploration:001"
+  },
+  "hasAction": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:Action:001"
+  }
 }
