@@ -7,9 +7,9 @@
     },
     "startDate": {
         "type": "Property",
-        "value": "'2023-11-22T14:37:59.167Z'"
+        "value": "2023-11-22T14:37:59.167Z"
     },
-    "state": {
+    "status": {
         "type": "Property",
         "value": "UNSTARTED / ONGOING / NOTIFICATION"
     }
