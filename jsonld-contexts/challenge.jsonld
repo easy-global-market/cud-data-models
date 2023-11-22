@@ -1,12 +1,24 @@
 {
     "@context": {
         "Challenge": "https://smartdatamodels.org/Challenge",
+        "CustomQuestion": "https://smartdatamodels.org/CustomQuestion",
         "Duel": "https://smartdatamodels.org/Duel",
         "Exploration": "https://smartdatamodels.org/Exploration",
+        "Question": "https://schema.org/Question",
         "Quiz": "https://smartdatamodels.org/Quiz",
+        "answers": "https://smartdatamodels.org/answers",
+        "answerExplanation": "https://schema.org/answerExplanation",
+        "hasAnswers": "https://smartdatamodels.org/hasAnswers",
+        "hasCustomQuestion": "https://smartdatamodels.org/hasCustomQuestion",
         "hasDuel": "https://smartdatamodels.org/hasDuel",
         "hasExploration": "https://smartdatamodels.org/hasExploration",
+        "hasQuestions": "https://smartdatamodels.org/hasQuestions",
         "hasQuiz": "https://smartdatamodels.org/hasQuiz",
-        "target": "https://smartdatamodels.org/target"
+        "interval": "https://smartdatamodels.org/interval",
+        "isCorrect": "https://smartdatamodels.org/isCorrect",
+        "period": "https://smartdatamodels.org/period",
+        "singleFluid": "https://smartdatamodels.org/singleFluid",
+        "target": "https://smartdatamodels.org/target",
+        "timeStep": "https://smartdatamodels.org/timeStep"
     }
 }
