@@ -11,7 +11,7 @@
             "type": "Relationship",
             "object": "urn:ngsi-ld:Question:LongeurAqueducGier",
             "datasetId": "urn:ngsi-ld:Dataset:LongeurAqueducGier"
-        }    
+        }
     ],
     "hasCustomQuestion": {
         "type": "Relationship",

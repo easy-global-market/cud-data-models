@@ -1,16 +1,16 @@
 {
-  "id": "urn:ngsi-ld:Action:001",
-  "type": "Action",
-  "ecogesture": {
-    "type": "Relationship",
-    "object": "urn:ngsi-ld:Ecogesture:001"
-  },
-  "startDate": {
-    "type": "Property",
-    "value": "'2023-11-22T14:37:59.167Z'"
-  },
-  "state": {
-    "type": "Property",
-    "value": "UNSTARTED / ONGOING / NOTIFICATION"
-  }
+    "id": "urn:ngsi-ld:Action:001",
+    "type": "Action",
+    "ecogesture": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Ecogesture:001"
+    },
+    "startDate": {
+        "type": "Property",
+        "value": "'2023-11-22T14:37:59.167Z'"
+    },
+    "state": {
+        "type": "Property",
+        "value": "UNSTARTED / ONGOING / NOTIFICATION"
+    }
 }

@@ -1,24 +1,24 @@
 {
-  "id": "urn:ngsi-ld:CustomQuestion:JourMaximumConsommation",
-  "type": "Question",
-  "title": {
-    "type": "Property",
-    "value": "Quel jour avez-vous le plus consommé parmi les suivants ?"
-  },
-  "timeStep": {
-    "type": "Property",
-    "value": 20
-  },
-  "interval": {
-    "type": "Property",
-    "value": 30
-  },
-  "period": {
-    "type": "Property",
-    "value": {}
-  },
-  "singleFluid": {
-    "type": "Property",
-    "value": false
-  }
+    "id": "urn:ngsi-ld:CustomQuestion:JourMaximumConsommation",
+    "type": "Question",
+    "title": {
+        "type": "Property",
+        "value": "Quel jour avez-vous le plus consommé parmi les suivants ?"
+    },
+    "timeStep": {
+        "type": "Property",
+        "value": 20
+    },
+    "interval": {
+        "type": "Property",
+        "value": 30
+    },
+    "period": {
+        "type": "Property",
+        "value": {}
+    },
+    "singleFluid": {
+        "type": "Property",
+        "value": false
+    }
 }
