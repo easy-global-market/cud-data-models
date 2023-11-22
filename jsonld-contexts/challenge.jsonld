@@ -1,0 +1,12 @@
+{
+    "@context": {
+        "Challenge": "https://smartdatamodels.org/Challenge",
+        "Duel": "https://smartdatamodels.org/Duel",
+        "Exploration": "https://smartdatamodels.org/Exploration",
+        "Quiz": "https://smartdatamodels.org/Quiz",
+        "hasDuel": "https://smartdatamodels.org/hasDuel",
+        "hasExploration": "https://smartdatamodels.org/hasExploration",
+        "hasQuiz": "https://smartdatamodels.org/hasQuiz",
+        "target": "https://smartdatamodels.org/target"
+    }
+}
