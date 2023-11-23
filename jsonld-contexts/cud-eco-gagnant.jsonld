@@ -1,6 +1,8 @@
 {
   "@context": [
     "https://raw.githubusercontent.com/easy-global-market/ngsild-api-data-models/master/authorization/jsonld-contexts/authorization.jsonld",
+    "https://raw.githubusercontent.com/easy-global-market/ngsild-api-data-models/master/digital-twins/jsonld-contexts/dcat.jsonld",
+    "https://raw.githubusercontent.com/easy-global-market/cud-data-models/main/jsonld-contexts/challenge.jsonld",
     "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.7.jsonld"
   ]
 }
