@@ -48,5 +48,21 @@
     "timeRequired": {
         "type": "Property",
         "value": "PT30S"
+    },
+    "hasBeenViewedInSelection":{
+        "type": "Property",
+        "value": false
+    },
+    "isAction": {
+        "type": "Property",
+        "value": true
+    },
+    "actionName": {
+        "type": "Property",
+        "value": "Je ne chauffe que les pièces de vie (salon, cuisine, …)"
+    },
+    "actionDuration": {
+        "type": "Property",
+        "value": 3
     }
 }
