@@ -1,0 +1,52 @@
+{
+    "id": "urn:ngsi-ld:Ecogesture:AgitationMolecules",
+    "type": "Ecogesture",
+    "title": {
+        "type": "Property",
+        "value": "Agitation des molécules"
+    },
+    "name": {
+        "type": "Property",
+        "value": "Je réchauffe mes plats au micro-ondes plutôt qu'au four."
+    },
+    "description": {
+        "type": "Property",
+        "value": "Pour réchauffer un plat, le four à micro-ondes consomme moins d'énergie qu'un four traditionnel."
+    },
+    "impactLevel": {
+        "type": "Property",
+        "value": 3
+    },
+    "difficulty": {
+        "type": "Property",
+        "value": 1
+    },
+    "fluidTypes": {
+        "type": "Property",
+        "value": ["ELECTRICITE"]
+    },
+    "season": {
+        "type": "Property",
+        "value": "Sans saison"
+    },
+    "isEquipment": {
+        "type": "Property",
+        "value": true
+    },
+    "equipmentTypes": {
+        "type": "Property",
+        "value": ["MICRO-ONDES"]
+    },
+    "investment": {
+        "type": "Property",
+        "value": "Aucun"
+    },
+    "rooms": {
+        "type": "Property",
+        "value": ["CUISINE"]
+    },
+    "timeRequired": {
+        "type": "Property",
+        "value": "PT30S"
+    }
+}
