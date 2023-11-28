@@ -1,0 +1,32 @@
+{
+    "id": "urn:ngsi-ld:Exploration:EXPLORATION001",
+    "type": "Exploration",
+    "title": {
+        "type": "Property",
+        "value": "Complétez votre profil depuis la partie \"Analyse\" pour remporter 5 étoiles."
+    },
+    "description": {
+        "type": "Property",
+        "value": "Si c'est déjà fait, allez consulter les informations de votre profil dans la partie \"Options\"."
+    },
+    "explorationType": {
+        "type": "Property",
+        "value": "Action"
+    },
+    "refEcogesture": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Ecogesture:ECOGESTURE0031"
+    },
+    "successMessage": {
+        "type": "Property",
+        "value": "Vous avez consulté vos données sur une période de 5 ans. Avez-vous appris des choses en les consultant ? Dans tous les cas..."
+    },
+    "fluidConditions": {
+        "type": "Property",
+        "value": ["ELECTRICITY"]
+    },
+    "status": {
+        "type": "Property",
+        "value": "UNLOCKED"
+    }
+}
