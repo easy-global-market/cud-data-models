@@ -1,0 +1,16 @@
+{
+    "id": "urn:ngsi-ld:Duel:DUEL001",
+    "type": "Duel",
+    "title": {
+        "type": "Property",
+        "value": "Simone VEILLE"
+    },
+    "description": {
+        "type": "Property",
+        "value": "Je vous défie de consommer moins que #CONSUMPTION ? dans les #DURATION prochains jours"
+    },
+    "duration": {
+        "type": "Property",
+        "value": 7
+    }
+}
