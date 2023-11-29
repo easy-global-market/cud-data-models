@@ -1,6 +1,5 @@
 {
     "@context": {
-        "Action": "https://schema.org/Action",
         "Challenge": "https://smartdatamodels.org/Challenge",
         "CustomQuestion": "https://smartdatamodels.org/CustomQuestion",
         "Duel": "https://smartdatamodels.org/Duel",
@@ -12,7 +11,6 @@
         "answerExplanation": "https://schema.org/answerExplanation",
         "answers": "https://smartdatamodels.org/answers",
         "difficulty": "https://smartdatamodels.org/difficulty",
-        "ecogesture": "https://smartdatamodels.org/ecogesture",
         "equipmentTypes": "https://smartdatamodels.org/equipmentTypes",
         "explorationType": "https://smartdatamodels.org/explorationType",
         "fluidConditions": "https://smartdatamodels.org/fluidConditions",
@@ -35,8 +33,6 @@
         "rooms": "https://smartdatamodels.org/rooms",
         "season": "https://smartdatamodels.org/season",
         "singleFluid": "https://smartdatamodels.org/singleFluid",
-        "startDate": "https://schema.org/startDate",
-        "status": "https://smartdatamodels.org/status",
         "successMessage": "https://smartdatamodels.org/successMessage",
         "target": "https://smartdatamodels.org/target",
         "timeRequired": "https://schema.org/timeRequired",

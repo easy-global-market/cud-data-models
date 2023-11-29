@@ -24,9 +24,5 @@
     "fluidConditions": {
         "type": "Property",
         "value": ["ELECTRICITY"]
-    },
-    "status": {
-        "type": "Property",
-        "value": "UNLOCKED"
     }
 }
