@@ -1,11 +1,11 @@
 {
     "id": "urn:ngsi-ld:Exploration:EXPLORATION001",
     "type": "Exploration",
-    "title": {
+    "description": {
         "type": "Property",
         "value": "Complétez votre profil depuis la partie \"Analyse\" pour remporter 5 étoiles."
     },
-    "description": {
+    "complementaryDescription": {
         "type": "Property",
         "value": "Si c'est déjà fait, allez consulter les informations de votre profil dans la partie \"Options\"."
     },

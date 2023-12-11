@@ -10,7 +10,10 @@
         "actionName": "https://smartdatamodels.org/actionName",
         "answerExplanation": "https://schema.org/answerExplanation",
         "answers": "https://smartdatamodels.org/answers",
+        "complementaryDescription": "https://smartdatamodels.org/complementaryDescription",
+        "customQuestionType": "https://smartdatamodels.org/customQuestionType",
         "difficulty": "https://smartdatamodels.org/difficulty",
+        "efficiency": "https://smartdatamodels.org/efficiency",
         "equipmentTypes": "https://smartdatamodels.org/equipmentTypes",
         "explorationType": "https://smartdatamodels.org/explorationType",
         "fluidConditions": "https://smartdatamodels.org/fluidConditions",
@@ -27,7 +30,6 @@
         "investment": "https://smartdatamodels.org/investment",
         "isAction": "https://smartdatamodels.org/isAction",
         "isCorrect": "https://smartdatamodels.org/isCorrect",
-        "isEquipment": "https://smartdatamodels.org/isEquipment",
         "period": "https://smartdatamodels.org/period",
         "refEcogesture": "https://smartdatamodels.org/refEcogesture",
         "rooms": "https://smartdatamodels.org/rooms",
@@ -36,6 +38,7 @@
         "successMessage": "https://smartdatamodels.org/successMessage",
         "target": "https://smartdatamodels.org/target",
         "timeRequired": "https://schema.org/timeRequired",
-        "timeStep": "https://smartdatamodels.org/timeStep"
+        "timeStep": "https://smartdatamodels.org/timeStep",
+        "usage": "https://smartdatamodels.org/usage"
     }
 }

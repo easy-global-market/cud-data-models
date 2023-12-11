@@ -24,9 +24,5 @@
     "hasExploration": {
         "type": "Relationship",
         "object": "urn:ngsi-ld:Exploration:001"
-    },
-    "hasAction": {
-        "type": "Relationship",
-        "object": "urn:ngsi-ld:Action:001"
     }
 }

@@ -1,9 +1,13 @@
 {
     "id": "urn:ngsi-ld:CustomQuestion:JourMaximumConsommation",
-    "type": "Question",
+    "type": "CustomQuestion",
     "title": {
         "type": "Property",
         "value": "Quel jour avez-vous le plus consommé parmi les suivants ?"
+    },
+    "customQuestionType": {
+        "type": "Property",
+        "value": 0
     },
     "timeStep": {
         "type": "Property",

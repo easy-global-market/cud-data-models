@@ -17,6 +17,10 @@
         "type": "Property",
         "value": 3
     },
+    "efficiency": {
+        "type": "Property",
+        "value": 1.5
+    },
     "difficulty": {
         "type": "Property",
         "value": 1
@@ -29,10 +33,6 @@
         "type": "Property",
         "value": "Sans saison"
     },
-    "isEquipment": {
-        "type": "Property",
-        "value": true
-    },
     "equipmentTypes": {
         "type": "Property",
         "value": ["MICRO-ONDES"]
@@ -44,6 +44,10 @@
     "rooms": {
         "type": "Property",
         "value": ["CUISINE"]
+    },
+    "usage": {
+        "type": "Property",
+        "value": 5
     },
     "timeRequired": {
         "type": "Property",
