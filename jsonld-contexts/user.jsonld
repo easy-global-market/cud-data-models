@@ -1,0 +1,22 @@
+{
+    "@context": {
+        "ChallengeProgress": "https://smartdatamodels.org/ChallengeProgress",
+        "UserProfile": "https://smartdatamodels.org/UserProfile",
+        
+        "isFirstConnection": "https://smartdatamodels.org/isFirstConnection",
+        "haveSeenLastAnalysis": "https://smartdatamodels.org/haveSeenLastAnalysis",
+        "sendAnalysisNotification": "https://smartdatamodels.org/sendAnalysisNotification",
+        "isProfileTypeCompleted": "https://smartdatamodels.org/isProfileTypeCompleted",
+        "isFirstConnection": "https://smartdatamodels.org/isFirstConnection",
+        "isFirstConnection": "https://smartdatamodels.org/isFirstConnection",
+        "isFirstConnection": "https://smartdatamodels.org/isFirstConnection",
+        "isFirstConnection": "https://smartdatamodels.org/isFirstConnection",
+        "isFirstConnection": "https://smartdatamodels.org/isFirstConnection",
+        "isFirstConnection": "https://smartdatamodels.org/isFirstConnection",
+        "isFirstConnection": "https://smartdatamodels.org/isFirstConnection",
+        "isFirstConnection": "https://smartdatamodels.org/isFirstConnection",
+        "isFirstConnection": "https://smartdatamodels.org/isFirstConnection",
+        "isFirstConnection": "https://smartdatamodels.org/isFirstConnection",
+        "isFirstConnection": "https://smartdatamodels.org/isFirstConnection",
+    }
+}
