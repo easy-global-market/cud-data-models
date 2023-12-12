@@ -1,0 +1,2092 @@
+{
+      id: 'urn:ngsi-ld:ChallengeProgress:romain.magnani@egm.io',
+      type: 'ChallengeProgress',
+      refEcogesture: [
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:0',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J’ouvre mes rideaux et mes volets dès qu’il fait jour et privilégie les apports de lumière naturelle.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0026'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:1',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je baisse le chauffage en mode hors gel lorsque je m\'absente plus de 2 jours.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0001'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:2',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je ferme mes fenêtres quand la climatisation est en marche'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0002'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:3',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je ferme les portes entre les pièces chauffées et moins chauffées.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0003'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:4',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je coupe l\'eau de la douche pendant que je me savonne.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0004'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:5',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je ferme l’eau du robinet quand je me lave les dents.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0005'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:6',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je mets mon ordinateur en veille automatique au bout de 5/10min d\'inactivité.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0006'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:7',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je réchauffe mes plats au micro-ondes plutôt qu’au four.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0007'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:8',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je mets un couvercle sur la casserole quand je cuisine.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0008'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:9',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je dépoussière mes radiateurs au moins une fois par an.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0009'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:10',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je me lave les mains à l\'eau froide.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0010'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:11',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je rince ma vaisselle à l\'eau froide.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0011'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:12',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je programme le nettoyage de mon four à pyrolyse juste après une cuisson.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0012'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:13',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J’utilise le plus souvent les cycles courts à basse température pour laver le linge et la vaisselle.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0013'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:14',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J’attends que les plats chauds aient refroidi avant de les mettre au réfrigérateur et je les couvre.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0014'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:15',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je remets systématiquement mes mitigeurs sur la position la plus froide.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0015'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:16',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J’éteins systématiquement les lumières quand je sors d’une pièce.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0016'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:17',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J’évite d\'ouvrir la porte du four pour vérifier la cuisson.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0017'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:18',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je remplis complètement ma machine à laver et/ou mon lave-vaisselle avant de les faire tourner.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0018'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:19',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J\'utilise des casseroles de la même taille que mes plaques électriques.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0019'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:20',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J\'évite de pré-laver mon linge/ma vaisselle.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0020'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:21',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Si mon circuit de chauffage a plus de 10 ans, je le fait désembouer.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0070'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:22',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Si j’ai un sèche linge, je sèche mon linge en petits paquets et j’adapte la durée de séchage de mon sèche-linge.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0021'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:23',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je nettoie le filtre de ma machine à laver.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0022'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:24',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je purge mes radiateurs hydrauliques tous les ans.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0073'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:25',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J\'installe une chasse d\'eau à double vitesse.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0074'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:26',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je détartre ma machine tous les ans.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0023'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:27',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je coupe mes plaques électriques un peu avant la fin cuisson.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0024'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:28',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je nettoie mes ampoules et luminaires (au moins une fois par an)'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0025'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:29',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J’optimise le rangement dans mon réfrigérateur et/ou congélateur.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0030'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:30',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je débranche mes chargeurs quand ils ne sont pas en fonctionnement.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0027'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:31',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je réfléchis à ce que je vais prendre avant d\'ouvrir mon réfrigérateur ou congélateur.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0028'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:32',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J\'adapte le programme d\'essorage de ma machine à laver au type de linge.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0029'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:33',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je décide de baisser de 2 °C la température de chauffage de mes pièces.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0031'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:34',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J’ai un économiseur d’eau sur mon pommeau de douche.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0041'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:35',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je règle le thermostat de mon chauffage à moins de 20 °C.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0032'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:36',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J\'installe et/ou je programme mon thermostat d’ambiance selon mon occupation quotidienne ou hebdomadaire.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0033'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:37',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je ne fais pas fonctionner mon ventilateur ou la climatisation dans les pièces non occupées'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0034'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:38',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je règle ma climatisation au plus bas à 26°C en veillant à ce qu’il n’y ait pas jamais plus de 5°C à 7°C de différence entre l’intérieur et l’extérieur.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0035'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:39',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je mets mon chauffage en mode réduit pendant la nuit ou pendant mon absence.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0036'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:40',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je décide de baisser d\'1 °C la température de chauffage de mes pièces.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0037'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:41',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je ne chauffe que les pièces de vie (salon, cuisine, …)'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0038'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:42',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je bloque les entrées d’air froid des pièces non chauffées (sous-sol, cave, cellier…) à l’aide de boudins de portes.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0039'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:43',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je prends des douches de moins de 5 minutes.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0040'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:44',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J\'équipe mes robinets d’éco-mousseurs.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0042'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:45',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je conserve au maximum la fraîcheur de mon logement en fermant les volets et fenêtres quand je m’absente pendant la journée.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0043'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:46',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je vérifie que les montants des fenêtres et des portes extérieures ne laissent pas passer les courants d’air.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0044'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:47',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je récupère l\'eau de pluie pour arroser les plantes et laver la voiture.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0045'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:48',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J\'installe mon fauteuil et mon bureau près des fenêtres.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0058'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:49',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je coupe mon chauffe-eau dès que je pars plus de 4 jours.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0046'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:50',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J\'empêche mes rideaux de pendre devant les radiateurs ou les convecteurs'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0047'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:51',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je branche ma "box" internet sur une multi-prise ou sur une minuterie pour l\'éteindre quand je n\'en n\'ai pas besoin.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0048'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:52',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J’évite d’utiliser le micro-ondes pour décongeler les aliments.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0049'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:53',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J\'ai nettoyé les grilles d\'entrée d\'air et d\'extraction de ma VMC (ventilation mécanique contrôlée) il y a moins d\'un an.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0050'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:54',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je diminue la luminosité de mon écran d’ordinateur tout en conservant un confort de vue.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0051'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:55',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J\'évite d\'utiliser un sèche-linge.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0052'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:56',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J’utilise des multiprises pour couper les veilles de mes appareils.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0053'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:57',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J’utilise uniquement des ampoules basse consommation dans toutes les pièces de vie.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0054'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:58',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je remplis mon congélateur, je ne surcharge pas mon réfrigérateur.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0055'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:59',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Si j\'ai un grand évier, j\'utilise un bac pour faire la vaisselle.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0056'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:60',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je coupe toujours la VMC quand je pars plus de 4 jours.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0057'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:61',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je répartis les sources de lumière pour optimiser l\'éclairage.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0059'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:62',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je dégivre mon réfrigérateur et/ ou congélateur si je ne l\'ai pas fait depuis 3 mois.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0060'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:63',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je vérifie régulièrement la température de mon réfrigérateur/congélateur'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0061'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:64',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je nettoie la grille arrière de mon réfrigérateur tous les ans au moins.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0062'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:65',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je vérifie l’étanchéité des joints de mon réfrigérateur/congélateur une fois par an.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0063'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:66',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je vérifie les joints de mon four tous les ans.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0064'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:67',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J\'installe des rideaux épais et/ou des volets à toutes les fenêtres des pièces chauffées.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0065'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:68',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je nettoie et je règle la combustion de ma chaudière tous les ans.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0066'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:69',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je règle la température de mon eau chaude entre 55 et 60 °C.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0067'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:70',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je détartre mon chauffe-eau tous les 3 ans.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0068'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:71',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je repère les fuites.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0069'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:72',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je place des panneaux réfléchissants derrière les radiateurs sur les murs non isolés.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0071'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:73',
+          ecogestureName: {
+            type: 'Property',
+            value: 'J\'isole les tuyaux de mon circuit de chauffage hydraulique.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0072'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:74',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je décide de supprimer une douche par semaine.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0075'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:75',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je positionne mon réfrigérateur loin d’une source de chaleur (four, cuisinière, fenêtre…).'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0076'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:76',
+          ecogestureName: {
+            type: 'Property',
+            value: 'Je peins mes murs avec des couleurs claires et j\'installe des luminaires blancs.'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              doing: false,
+              objective: false,
+              viewedInSelection: false
+            }
+          },
+          object: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0077'
+        }
+      ],
+      globalState: {
+        type: 'Property',
+        description: {
+          type: 'Property',
+          value: 'Keep tracks of user progress accross challenges. The value reference the current active challenge\'s id'
+        },
+        value: 'urn:ngsi-ld:Challenge:CHALLENGE0001'
+      },
+      refChallenge: [
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:0',
+          challengeTitle: {
+            type: 'Property',
+            value: 'Simone VEILLE'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              id: 'urn:ngsi-ld:Challenge:CHALLENGE0001',
+              description: 'foobar',
+              title: 'Simone VEILLE',
+              target: 15,
+              action: {
+                ecogesture: 'null',
+                startDate: 'null',
+                state: 0
+              },
+              duel: {
+                id: 'urn:ngsi-ld:Duel:DUEL001',
+                description: 'Je vous défie de consommer moins que #CONSUMPTION € dans les #DURATION prochains jours',
+                title: 'Simone VEILLE',
+                fluidTypes: [],
+                duration: 'P7D',
+                startDate: 'null',
+                state: 0,
+                threshold: 0,
+                userConsumption: 0
+              },
+              endingDate: 'null',
+              exploration: {
+                id: 'urn:ngsi-ld:Exploration:EXPLORATION001',
+                description: 'Complétez votre profil depuis la partie "Analyse" pour remporter 5 étoiles.',
+                target: 1,
+                blobType: 1,
+                complementary_description: '',
+                date: 'null',
+                ecogesture_id: '',
+                fluid_condition: [],
+                message_success: 'Vous avez complété votre profil. Vous bénéficierez d\'une analyse de vos consommations davantage personnalisée et d\'un nouveau mode de tri des astuces.',
+                progress: 0,
+                state: 0
+              },
+              progress: {
+                actionProgress: 0,
+                explorationProgress: 0,
+                quizProgress: 4
+              },
+              quiz: {
+                id: 'urn:ngsi-ld:Quiz:QUIZ001',
+                customQuestion: {
+                  interval: 30,
+                  period: {},
+                  singleFluid: false,
+                  timeStep: 20,
+                  blobType: 0,
+                  questionLabel: 'Quel jour avez-vous le plus consommé parmi les suivants ?',
+                  result: 1
+                },
+                questions: [
+                  {
+                    answers: [
+                      {
+                        answerLabel: '86 km',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: '58 km',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: '70 km',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'L’aqueduc du Gier est un des aqueducs antiques de Lyon desservant la ville antique de Lugdunum. Avec ses 86 km, il est le plus long des quatre aqueducs ayant alimenté la ville en eau, et celui dont les structures sont le mieux conservées. Il doit son nom au fait qu\'il puise aux sources du Gier, affluent du Rhône.',
+                    questionLabel: 'Quelle longueur faisait l’aqueduc du Gier pour acheminer l’eau sur Lyon à l’époque romaine ?',
+                    result: 1,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Allessandro Volta',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Thomas Edison',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: 'Benjamin Franklin',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'Thomas Edison a conçu et commercialisé pour la première fois le 21 octobre 1879 une ampoule dont le filament était composé d\'une fibre de coton carbonisée.',
+                    questionLabel: 'Qui a conçu et commercialisé la première ampoule électrique ?',
+                    result: 2,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'à 19h',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: 'à 12h',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'à 9h',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'Les pics de consommation d\'électricité sont principalement enregistrés autour de 19h en hiver, souvent lors de vagues de froid. En effet, c\'est à cette heure que la plupart des français rentrent chez eux. Ils allument alors simultanément le chauffage, la lumière et leurs autres appareils électroménagers (lave-linge, télévision, …) ce qui provoque une très forte demande en électricité.',
+                    questionLabel: 'En hiver, à quelle heure se situe le pic de consommation électrique en France ?',
+                    result: 1,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Pompe de Cornouailles',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: 'Pompe à cordes',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Pompe à air',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'Mises en fonctionnement en 1856, 3 pompes à vapeur dites de Cornouailles produisent quelque 20 000 m³ d\'eau par jour. Ces pompes mesurent 20 m de haut et 13 m de large pour un poids de 200 tonnes. Leur balancier de 35 tonnes s\'actionne toutes les 6 secondes, permettant ainsi l\'envoi de 600 m³ d\'eau par heure. L\'usine s\'arrêta en 1910 et deux pompes furent démontées en 1938.',
+                    questionLabel: 'Quelle type de pompes étaient utilisées à l\'usine des eaux de Caluire jusqu\'en 1910 ?',
+                    result: 1,
+                    source: 'string'
+                  }
+                ],
+                result: 4,
+                startDate: '2023-12-12T14:51:54.446Z',
+                state: 2
+              },
+              startDate: '2023-12-12T00:00:00.000Z',
+              state: 2,
+              success: '0'
+            }
+          },
+          object: 'urn:ngsi-ld:Challenge:CHALLENGE0001'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:1',
+          challengeTitle: {
+            type: 'Property',
+            value: 'Jean-Jacques RUISSEAU'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              id: 'urn:ngsi-ld:Challenge:CHALLENGE0002',
+              description: 'foobar',
+              title: 'Jean-Jacques RUISSEAU',
+              target: 15,
+              action: {
+                ecogesture: 'null',
+                startDate: 'null',
+                state: 0
+              },
+              duel: {
+                id: 'urn:ngsi-ld:Duel:DUEL002',
+                description: 'Je vous défie de consommer moins que #CONSUMPTION € dans les #DURATION prochains jours',
+                title: 'Jean-Jacques RUISSEAU',
+                fluidTypes: [],
+                duration: 'P14D',
+                startDate: 'null',
+                state: 0,
+                threshold: 0,
+                userConsumption: 0
+              },
+              endingDate: 'null',
+              exploration: {
+                id: 'urn:ngsi-ld:Exploration:EXPLORATION002',
+                description: 'Consultez l\'astuce Professeur Celsius pour remporter 5 étoiles.',
+                target: 1,
+                blobType: 3,
+                complementary_description: '',
+                date: 'null',
+                ecogesture_id: 'urn:ngsi-ld:Ecogesture:ECOGESTURE0037',
+                fluid_condition: [],
+                message_success: 'Vous avez consulté l\'astuce Professeur Celsius et être prêts pour adopter de bons comportements en hiver.',
+                progress: 0,
+                state: 0
+              },
+              progress: {
+                actionProgress: 0,
+                explorationProgress: 0,
+                quizProgress: 0
+              },
+              quiz: {
+                id: 'urn:ngsi-ld:Quiz:QUIZ002',
+                customQuestion: {
+                  interval: 50,
+                  period: {},
+                  singleFluid: false,
+                  timeStep: 40,
+                  blobType: 0,
+                  questionLabel: 'Quel mois avez-vous le plus consommé parmi les mois suivants (tous fluides confondus) :',
+                  result: 0
+                },
+                questions: [
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Elle est de 100 à 200 fois moins chère',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: 'Elle est 50 fois moins chère',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Elle est 5 fois moins chère',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'L’eau du robinet est de 100 à 200 fois moins chère que l’eau en bouteille. 80 % du coût d’une bouteille d’eau à l’achat est consacré à l’emballage et à la commercialisation.',
+                    questionLabel: 'Combien de fois l’eau du robinet coûte-t-elle moins chère que l’eau minérale en bouteille ?',
+                    result: 0,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: '50 à 70%',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: '5 à 25 %',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: '30 à 50%',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'Un réfrigérateur ou un congélateur classé A+++ consomme en moyenne 70% d’électricité de moins qu’un appareil classé A+ disposant des mêmes options. Un sèche-linge classé A++ consomme 50% d’électricité de moins qu’un appareil classé A+.',
+                    questionLabel: 'Les étiquettes A+++ et A++ présentent sur un appareil électroménager indiquent une réduction de consommation d\'électricité, par rapport à un appareil de classe A+, de :',
+                    result: 0,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Jusqu\'à 12 L par mois',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Jusqu\'à 12 L par jour',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: 'Jusqu\'à 12 L par semaine',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'Ce chiffre peut varier d\'un foyer à l\'autre et de son activité. Il faut savoir cependant que la quantité de vapeur d’eau produite par les fonctions métaboliques des occupants comme la respiration et la transpiration peut aller jusqu\'à 0,2L par personne et par heure. A cela, de l\'humidité peut également être créer par les autres activité (lavage, séchage de linge, bain, douche ...) Cette réponse est donc principalement un ordre de grandeur.',
+                    questionLabel: 'Quelle quantité de vapeur d\'eau dégage l\'activité d\'une famille de 4 personnes dans l\'habitat ?',
+                    result: 0,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: '1799',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: '642',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: '-600 avJC',
+                        isTrue: true
+                      }
+                    ],
+                    explanation: 'Les phénomènes électriques ont été observés dès l\'Antiquité. D\'ailleurs le mot électricité a pour racine le mot grec « êlektron » (ήλεκτρον) qui désigne l\'ambre jaune, une résine fossile possédant des propriétés électrostatiques). Toutefois, il faudra attendre la fin du 16ème siècle pour que soit compris les mécanismes la régissant et dressées les premières lois.',
+                    questionLabel: 'A quelle époque a été découverte l\'électricité ?',
+                    result: 0,
+                    source: 'string'
+                  }
+                ],
+                result: 0,
+                startDate: 'null',
+                state: 0
+              },
+              startDate: 'null',
+              state: 0,
+              success: '0'
+            }
+          },
+          object: 'urn:ngsi-ld:Challenge:CHALLENGE0002'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:2',
+          challengeTitle: {
+            type: 'Property',
+            value: 'Usain VOLT'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              id: 'urn:ngsi-ld:Challenge:CHALLENGE0003',
+              description: 'foobar',
+              title: 'Usain VOLT',
+              target: 15,
+              action: {
+                ecogesture: 'null',
+                startDate: 'null',
+                state: 0
+              },
+              duel: {
+                id: 'urn:ngsi-ld:Duel:DUEL003',
+                description: 'Je vous défie de consommer moins que #CONSUMPTION € dans les #DURATION prochains jours',
+                title: 'Usain VOLT',
+                fluidTypes: [],
+                duration: 'P14D',
+                startDate: 'null',
+                state: 0,
+                threshold: 0,
+                userConsumption: 0
+              },
+              endingDate: 'null',
+              exploration: {
+                id: 'urn:ngsi-ld:Exploration:EXPLORATION003',
+                description: 'Consultez vos données sur une période de 5 ans.',
+                target: 1,
+                blobType: 2,
+                complementary_description: '',
+                date: 'null',
+                ecogesture_id: '',
+                fluid_condition: [],
+                message_success: 'Vous avez consulté vos données sur une période de 5 ans. Avez-vous appris des choses en les consultant ? Dans tous les cas...',
+                progress: 0,
+                state: 0
+              },
+              progress: {
+                actionProgress: 0,
+                explorationProgress: 0,
+                quizProgress: 0
+              },
+              quiz: {
+                id: 'urn:ngsi-ld:Quiz:QUIZ003',
+                customQuestion: {
+                  interval: 40,
+                  period: {},
+                  singleFluid: true,
+                  timeStep: 40,
+                  blobType: 0,
+                  questionLabel: 'Environ combien de #unit #fluid avez-vous consommé le mois dernier ?',
+                  result: 0
+                },
+                questions: [
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Le bain et la douche',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: 'La machine à laver',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Les toilettes',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'Le bain et la douche représentent le poste le plus consommateur d’eau avec 39 % des usages. Viennent ensuite les toilettes avec 20 % puis le lave-linge avec 12 %.',
+                    questionLabel: 'Quel est le poste le plus consommateur d’eau à la maison ?',
+                    result: 0,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Véronique Sanson',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: 'Francis Cabrel',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Barbara',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'Rien que de l\'eau est une chanson française interprétée par Véronique Sanson, paroles françaises de Véronique Sanson et composée par Bernard Swell sous le titre I Wanna Know. Elle est sortie en 1992. Mettre un peu de poésie autour de ce fluide qu\'est l\'eau est beau !',
+                    questionLabel: 'Qui a chanté Rien que de l\'eau ?',
+                    result: 0,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Thermique',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Géothermique',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: 'Solaire',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'La géothermie, du grec géo (« la Terre ») et thermos (« la chaleur »), désigne à la fois la science qui étudie les phénomènes thermiques internes du globe terrestre, et la technologie qui vise à les exploiter. Par extension, la géothermie désigne aussi parfois l\'énergie géothermique issue de l\'énergie de la Terre qui est convertie en chaleur.',
+                    questionLabel: 'Laquelle de ces énergies utilise les bienfaits de la terre ?',
+                    result: 0,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Avec une climatisation',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Avec des radiateurs',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Avec une VMC',
+                        isTrue: true
+                      }
+                    ],
+                    explanation: 'Le meilleur moyen d\'évacuer l\'humidité est d\'avoir une VMC. En effet, la ventilation mécanique contrôlée (VMC) est un équipement essentiel puisqu\'il permet de renouveler l\'air de votre logement. Il évacue l\'air impur des pièces d\'eau et fait pénétrer l\'air frais issu de l\'extérieur dans les pièces de vie.',
+                    questionLabel: 'Comment peut on réguler les vapeurs d\'eau chez soi ?',
+                    result: 0,
+                    source: 'string'
+                  }
+                ],
+                result: 0,
+                startDate: 'null',
+                state: 0
+              },
+              startDate: 'null',
+              state: 0,
+              success: '0'
+            }
+          },
+          object: 'urn:ngsi-ld:Challenge:CHALLENGE0003'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:3',
+          challengeTitle: {
+            type: 'Property',
+            value: 'Bernard PIV\'EAU'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              id: 'urn:ngsi-ld:Challenge:CHALLENGE0004',
+              description: 'foobar',
+              title: 'Bernard PIV\'EAU',
+              target: 15,
+              action: {
+                ecogesture: 'null',
+                startDate: 'null',
+                state: 0
+              },
+              duel: {
+                id: 'urn:ngsi-ld:Duel:DUEL004',
+                description: 'Je vous défie de consommer moins que #CONSUMPTION € dans les #DURATION prochains jours',
+                title: 'Bernard PIV\'EAU',
+                fluidTypes: [],
+                duration: 'P21D',
+                startDate: 'null',
+                state: 0,
+                threshold: 0,
+                userConsumption: 0
+              },
+              endingDate: 'null',
+              exploration: {
+                id: 'urn:ngsi-ld:Exploration:EXPLORATION004',
+                description: 'Consultez vos données électriques au pas de temps demi-heure.',
+                target: 1,
+                blobType: 1,
+                complementary_description: '',
+                date: 'null',
+                ecogesture_id: '',
+                fluid_condition: [],
+                message_success: 'Vous avez consulté vos données de consommation à la demi-heure. Devenez un fin connaisseur de vos consommations électriques en consultant ces données , elles vont vous en apprendre sur vos usages quotidiens.',
+                progress: 0,
+                state: 0
+              },
+              progress: {
+                actionProgress: 0,
+                explorationProgress: 0,
+                quizProgress: 0
+              },
+              quiz: {
+                id: 'urn:ngsi-ld:Quiz:QUIZ004',
+                customQuestion: {
+                  interval: 40,
+                  period: {
+                    weekday: 3
+                  },
+                  singleFluid: true,
+                  timeStep: 20,
+                  blobType: 0,
+                  questionLabel: 'Quelle est votre consommation moyenne #fluid (en #unit) le mercredi ? (Moyenne calculée sur le mois dernier)',
+                  result: 0
+                },
+                questions: [
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Les eaux souterraines (nappes aquifères,...)',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: 'Les eaux de surface (lacs, rivières...)',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'L\'eau de pluie',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'En France, 62 % de l’eau potable provient des eaux souterraines (nappes phréatiques, …) et 38 % provient des eaux de surfaces (torrents, rivières, lacs…).',
+                    questionLabel: 'En France, 60% de la demande en eau potable est couverte par :',
+                    result: 0,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Un amas de cristaux de glace',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: 'Une accumulation d’eau gelée et de gaz',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'De la vapeur d\'eau froide',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'C’est un amas de cristaux de glace. Il provient de la vapeur d\'eau atmosphérique congelée qui forme de fins cristaux blancs qui s\'agglomèrent en flocons et s\'éparpillent du ciel sur la terre. Une goutte d\'eau évaporée frappée du froid se change en étoile de neige à six rayons.',
+                    questionLabel: 'Qu’est-ce qu’un flocon de neige ?',
+                    result: 0,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Ventilation manuelle circulaire',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Ventilation mécanique contrôlée',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: 'Vidange par ventilateur contrôlé',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'La ventilation mécanique contrôlée (VMC) est un équipement essentiel puisqu\'il permet de renouveler l\'air de votre logement. Il évacue l\'air impur des pièces d\'eau et fait pénétrer l\'air frais issu de l\'extérieur dans les pièces de vie.',
+                    questionLabel: 'Que veut dire le sigle VMC ?',
+                    result: 0,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'fenêtre plus solide',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'permet plus d\'esthétique',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Meilleure isolation thermique',
+                        isTrue: true
+                      }
+                    ],
+                    explanation: 'Le double vitrage permet de limiter la déperdition de chaleur par les fenêtres d’au moins 40 % par rapport à un simple vitrage. L’isolation est mesurée par le coefficient Ug. La valeur Ug d’un simple vitrage est de 6,8 tandis que celle du double vitrage est de 2,8. Plus le chiffre est bas, plus l’isolation est performante. Résultat : plus de confort car la chaleur est conservée dans la pièce.',
+                    questionLabel: 'Quel est l’intérêt d\'avoir des fenêtre à double vitrage ?',
+                    result: 0,
+                    source: 'string'
+                  }
+                ],
+                result: 0,
+                startDate: 'null',
+                state: 0
+              },
+              startDate: 'null',
+              state: 0,
+              success: '0'
+            }
+          },
+          object: 'urn:ngsi-ld:Challenge:CHALLENGE0004'
+        },
+        {
+          type: 'Relationship',
+          datasetId: 'urn:ngsi-ld:Dataset:4',
+          challengeTitle: {
+            type: 'Property',
+            value: 'Maria SHARAPOWATT'
+          },
+          userProgress: {
+            type: 'Property',
+            value: {
+              id: 'urn:ngsi-ld:Challenge:CHALLENGE0005',
+              description: 'foobar',
+              title: 'Maria SHARAPOWATT',
+              target: 15,
+              action: {
+                ecogesture: 'null',
+                startDate: 'null',
+                state: 0
+              },
+              duel: {
+                id: 'urn:ngsi-ld:Duel:DUEL005',
+                description: 'Je vous défie de consommer moins que #CONSUMPTION € dans les #DURATION prochains jours',
+                title: 'Maria SHARAPOWATT',
+                fluidTypes: [],
+                duration: 'P28D',
+                startDate: 'null',
+                state: 0,
+                threshold: 0,
+                userConsumption: 0
+              },
+              endingDate: 'null',
+              exploration: {
+                id: 'urn:ngsi-ld:Exploration:EXPLORATION005',
+                description: 'Envoyez-nous un avis (sincère :)) sur notre service. Vous remporterez 5 étoiles !',
+                target: 1,
+                blobType: 1,
+                complementary_description: '',
+                date: 'null',
+                ecogesture_id: '',
+                fluid_condition: [],
+                message_success: 'Avis bien reçu ! Merci. Il va être lu par nos équipes. En attendant...',
+                progress: 0,
+                state: 0
+              },
+              progress: {
+                actionProgress: 0,
+                explorationProgress: 0,
+                quizProgress: 0
+              },
+              quiz: {
+                id: 'urn:ngsi-ld:Quiz:QUIZ005',
+                customQuestion: {
+                  interval: 30,
+                  period: {},
+                  singleFluid: false,
+                  timeStep: 20,
+                  blobType: 0,
+                  questionLabel: 'Quel jour avez-vous le plus consommé parmi les suivants',
+                  result: 0
+                },
+                questions: [
+                  {
+                    answers: [
+                      {
+                        answerLabel: '20%',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: '30%',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: '10%',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'Au-delà de 3 mm, le givre crée une couche isolante et engendre une surconsommation de 30 %, à 1 cm cela représente déjà 50 %. L\'éco-geste "Exploratrice polaire" vous rappelle ces informations. Alors pensez à dégivrer congélateurs et réfrigérateur régulièrement.',
+                    questionLabel: 'Laisser 3 millimètres de givre dans son congélateur, c’est surconsommer en électricité :',
+                    result: 0,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Aux taux de fuite de chaleur vers l\'extérieur',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Au pouvoir isolant d\'un matériau',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'A la résistance aux changement de température',
+                        isTrue: true
+                      }
+                    ],
+                    explanation: 'L\'inertie thermique est la capacité physique d\'un matériau à résister aux changements de température et donc à conserver sa température.L\'inertie thermique d\'un bâtiment est recherchée afin de minimiser les apports thermiques à lui apporter (via le chauffage, ou la climatisation) pour maintenir une température constante. L\'inertie thermique est importante pour assurer une ambiance climatique confortable pour ses occupants.',
+                    questionLabel: 'A quoi correspond l\'inertie thermique ?',
+                    result: 0,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Gouttelettes d\'eau et cristaux de glace',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: 'Vapeur d\'eau',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Fumée',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'Les nuages sont constitués de gouttelettes d\'eau et parfois aussi de cristaux de glace',
+                    questionLabel: 'De quoi les nuages sont-ils constitués ?',
+                    result: 0,
+                    source: 'string'
+                  },
+                  {
+                    answers: [
+                      {
+                        answerLabel: 'Crépieux-Charmy',
+                        isTrue: true
+                      },
+                      {
+                        answerLabel: 'Charly',
+                        isTrue: false
+                      },
+                      {
+                        answerLabel: 'Crémieux',
+                        isTrue: false
+                      }
+                    ],
+                    explanation: 'Crépieux-Charmy est le principal champ captant de la Métropole de Lyon',
+                    questionLabel: 'Quelle est le nom du principal champ de captage d’eau potable de la Métropole ?',
+                    result: 0,
+                    source: 'string'
+                  }
+                ],
+                result: 0,
+                startDate: 'null',
+                state: 0
+              },
+              startDate: 'null',
+              state: 0,
+              success: '0'
+            }
+          },
+          object: 'urn:ngsi-ld:Challenge:CHALLENGE0005'
+        }
+      ]
+    }
