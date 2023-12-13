@@ -1,0 +1,33 @@
+{
+    "@context": {
+        "ChallengeProgress": "https://smartdatamodels.org/ChallengeProgress",
+        "UserProfile": "https://smartdatamodels.org/UserProfile",
+        "area": "https://smartdatamodels.org/area",
+        "coldWater": "https://smartdatamodels.org/coldWater",
+        "constructionYear": "https://smartdatamodels.org/constructionYear",
+        "cookingFluid": "https://smartdatamodels.org/cookingFluid",
+        "floor": "https://smartdatamodels.org/floor",
+        "globalState": "https://smartdatamodels.org/globalState",
+        "hasInstalledVentilation": "https://smartdatamodels.org/hasInstalledVentilation",
+        "hasReplacedHeater": "https://smartdatamodels.org/hasReplacedHeater",
+        "haveSeenEcogestureModal": "https://smartdatamodels.org/haveSeenEcogestureModal",
+        "haveSeenLastAnalysis": "https://smartdatamodels.org/haveSeenLastAnalysis",
+        "haveSeenWelcomeModal": "https://smartdatamodels.org/haveSeenWelcomeModal",
+        "heating": "https://smartdatamodels.org/heating",
+        "hotWater": "https://smartdatamodels.org/hotWater",
+        "hotWaterEquipment": "https://smartdatamodels.org/hotWaterEquipment",
+        "hotWaterFluid": "https://smartdatamodels.org/hotWaterFluid",
+        "housingType": "https://smartdatamodels.org/housingType",
+        "individualInsulationWork": "https://smartdatamodels.org/individualInsulationWork",
+        "isFirstConnection": "https://smartdatamodels.org/isFirstConnection",
+        "isProfileEcogestureCompleted": "https://smartdatamodels.org/isProfileEcogestureCompleted",
+        "isProfileTypeCompleted": "https://smartdatamodels.org/isProfileTypeCompleted",
+        "occupantsNumber": "https://smartdatamodels.org/occupantsNumber",
+        "outsideFacingWalls": "https://smartdatamodels.org/outsideFacingWalls",
+        "refChallenge": "https://smartdatamodels.org/refChallenge",
+        "refEcogesture": "https://smartdatamodels.org/refEcogesture",
+        "sendAnalysisNotification": "https://smartdatamodels.org/sendAnalysisNotification",
+        "updateDate": "https://smartdatamodels.org/updateDate",
+        "warmingFluid": "https://smartdatamodels.org/warmingFluid"
+    }
+}
