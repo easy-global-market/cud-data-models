@@ -1,0 +1,8 @@
+{
+    "@context": {
+        "FluidMonitoring": "https://smartdatamodels.org/dataModel.CrossSector/FluidMonitoring",
+        "fluidType": "https://smartdatamodels.org/dataModel.CrossSector/fluidType",
+        "refDevice": "https://smartdatamodels.org/dataModel.Device/refDevice",
+        "consumption": "https://smartdatamodels.org/dataModel.CrossSector/consumption"
+    }
+}

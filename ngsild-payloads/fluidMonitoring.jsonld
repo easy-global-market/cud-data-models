@@ -1,0 +1,18 @@
+{
+    "id": "urn:ngsi-ld:FluidMonitoring:AAA-111-CCC",
+    "type": "FluidMonitoring",
+    "refDevice": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Device:AAA-111-CCC"
+    },
+    "fluidType": {
+        "type": "Property",
+        "value": "Electricity"
+    },
+    "consumption": {
+        "type": "Property",
+        "value": 123,
+        "unitCode": "KWH",
+        "observedAt": "2023-12-14T15:00:00Z"
+    }
+}
