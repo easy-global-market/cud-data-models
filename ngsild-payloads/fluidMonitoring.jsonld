@@ -9,10 +9,27 @@
         "type": "Property",
         "value": "Electricity"
     },
-    "consumption": {
-        "type": "Property",
-        "value": 123,
-        "unitCode": "KWH",
-        "observedAt": "2023-12-14T15:00:00Z"
-    }
+    "consumption": [
+        {
+            "type": "Property",
+            "value": 4,
+            "unitCode": "KWH",
+            "observedAt": "2023-12-14T00:00:00Z",
+            "datasetId": "urn:ngsi-ld:Dataset:OffPeakHour"
+        },
+        {
+            "type": "Property",
+            "value": 6,
+            "unitCode": "KWH",
+            "observedAt": "2023-12-14T00:00:00Z",
+            "datasetId": "urn:ngsi-ld:Dataset:FullHour"
+        },
+        {
+            "type": "Property",
+            "value": 10,
+            "unitCode": "KWH",
+            "observedAt": "2023-12-14T00:00:00Z",
+            "datasetId": "urn:ngsi-ld:Dataset:Total"
+        }
+    ]
 }

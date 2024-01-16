@@ -1,10 +1,10 @@
 {
   "@context": [
-    "https://raw.githubusercontent.com/easy-global-market/ngsild-api-data-models/master/authorization/jsonld-contexts/authorization.jsonld",
-    "https://raw.githubusercontent.com/easy-global-market/ngsild-api-data-models/master/digital-twins/jsonld-contexts/dcat.jsonld",
-    "https://raw.githubusercontent.com/easy-global-market/cud-data-models/main/jsonld-contexts/challenge.jsonld",
-    "https://raw.githubusercontent.com/easy-global-market/cud-data-models/main/jsonld-contexts/user.jsonld",
-    "https://raw.githubusercontent.com/easy-global-market/cud-data-models/main/jsonld-contexts/fluid.jsonld",
+    "https://easy-global-market.github.io/ngsild-api-data-models/authorization/jsonld-contexts/authorization.jsonld",
+    "https://easy-global-market.github.io/ngsild-api-data-models/digital-twins/jsonld-contexts/dcat.jsonld",
+    "https://easy-global-market.github.io/cud-data-models/jsonld-contexts/challenge.jsonld",
+    "https://easy-global-market.github.io/cud-data-models/jsonld-contexts/user.jsonld",
+    "https://easy-global-market.github.io/cud-data-models/jsonld-contexts/fluid.jsonld",
     "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.7.jsonld"
   ]
 }
