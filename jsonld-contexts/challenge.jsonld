@@ -35,7 +35,6 @@
         "rooms": "https://smartdatamodels.org/rooms",
         "season": "https://smartdatamodels.org/season",
         "singleFluid": "https://smartdatamodels.org/singleFluid",
-        "success": "https://smartdatamodels.org/success",
         "successMessage": "https://smartdatamodels.org/successMessage",
         "target": "https://smartdatamodels.org/target",
         "timeRequired": "https://schema.org/timeRequired",
