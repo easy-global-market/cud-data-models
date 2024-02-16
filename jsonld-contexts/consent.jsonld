@@ -2,9 +2,8 @@
 	"@context": {
 		"UserConsent": "https://vocab.egm.io/UserConsent",
 		"provider": "https://vocab.egm.io/provider",
+		"refFluid": "https://vocab.egm.io/refFluid",
 		"validityPeriod": "https://vocab.egm.io/validityPeriod",
-		"startAt": "https://vocab.egm.io/startAt",
-		"endAt": "https://vocab.egm.io/endAt",
 		"version": "https://vocab.egm.io/version"
 	}
 }
