@@ -1,107 +1,107 @@
 {
-    id: 'urn:ngsi-ld:UserProfile:romain.magnani@egm.io',
-    type: 'UserProfile',
-    isFirstConnection: {
-      type: 'Property',
-      value: false
+    "id": "urn:ngsi-ld:UserProfile:romain.magnani@egm.io",
+    "type": "UserProfile",
+    "isFirstConnection": {
+        "type": "Property",
+        "value": false
     },
-    haveSeenLastAnalysis: {
-      type: 'Property',
-      value: false
+    "haveSeenLastAnalysis": {
+        "type": "Property",
+        "value": false
     },
-    sendAnalysisNotification: {
-      type: 'Property',
-      value: false
+    "sendAnalysisNotification": {
+        "type": "Property",
+        "value": false
     },
-    isProfileTypeCompleted: {
-      type: 'Property',
-      value: true
+    "isProfileTypeCompleted": {
+        "type": "Property",
+        "value": true
     },
-    isProfileEcogestureCompleted: {
-      type: 'Property',
-      value: true
+    "isProfileEcogestureCompleted": {
+        "type": "Property",
+        "value": true
     },
-    haveSeenWelcomeModal: {
-      type: 'Property',
-      value: false
+    "haveSeenWelcomeModal": {
+        "type": "Property",
+        "value": false
     },
-    haveSeenEcogestureModal: {
-      type: 'Property',
-      value: false
+    "haveSeenEcogestureModal": {
+        "type": "Property",
+        "value": false
     },
-    housingType: {
-      type: 'Property',
-      value: 'apartment'
+    "housingType": {
+        "type": "Property",
+        "value": "apartment"
     },
-    constructionYear: {
-      type: 'Property',
-      value: 'between_1975_and_1989'
+    "constructionYear": {
+        "type": "Property",
+        "value": "between_1975_and_1989"
     },
-    area: {
-      type: 'Property',
-      value: '55'
+    "area": {
+        "type": "Property",
+        "value": "55"
     },
-    occupantsNumber: {
-      type: 'Property',
-      value: 2
+    "occupantsNumber": {
+        "type": "Property",
+        "value": 2
     },
-    outsideFacingWalls: {
-      type: 'Property',
-      value: '2'
+    "outsideFacingWalls": {
+        "type": "Property",
+        "value": "2"
     },
-    floor: {
-      type: 'Property',
-      value: 'last_floor'
+    "floor": {
+        "type": "Property",
+        "value": "last_floor"
     },
-    heating: {
-      type: 'Property',
-      value: 'collective'
+    "heating": {
+        "type": "Property",
+        "value": "collective"
     },
-    coldWater: {
-      type: 'Property',
-      value: 'individual'
+    "coldWater": {
+        "type": "Property",
+        "value": "individual"
     },
-    hotWater: {
-      type: 'Property',
-      value: 'collective'
+    "hotWater": {
+        "type": "Property",
+        "value": "collective"
     },
-    individualInsulationWork: {
-      type: 'Property',
-      value: 'none'
+    "individualInsulationWork": {
+        "type": "Property",
+        "value": "none"
     },
-    hasInstalledVentilation: {
-      type: 'Property',
-      value: 'no'
+    "hasInstalledVentilation": {
+        "type": "Property",
+        "value": "no"
     },
-    hasReplacedHeater: {
-      type: 'Property',
-      value: 'no'
+    "hasReplacedHeater": {
+        "type": "Property",
+        "value": "no"
     },
-    hotWaterEquipment: {
-      type: 'Property',
-      value: 'other'
+    "hotWaterEquipment": {
+        "type": "Property",
+        "value": "other"
     },
-    warmingFluid: {
-      type: 'Property',
-      value: 0
+    "warmingFluid": {
+        "type": "Property",
+        "value": 0
     },
-    hotWaterFluid: {
-      type: 'Property',
-      value: 0
+    "hotWaterFluid": {
+        "type": "Property",
+        "value": 0
     },
-    cookingFluid: {
-      type: 'Property',
-      value: 0
+    "cookingFluid": {
+        "type": "Property",
+        "value": 0
     },
-    updateDate: {
-      type: 'Property',
-      value: '2023-12-12T14:20:07.201+01:00'
+    "updateDate": {
+        "type": "Property",
+        "value": "2023-12-12T14:20:07.201+01:00"
     },
-    equipments: {
-      type: 'Property',
-      value: [
-        'COMPUTER',
-        'WASHING_MACHINE'
-      ]
+    "equipments": {
+        "type": "Property",
+        "value": [
+            "COMPUTER",
+            "WASHING_MACHINE"
+        ]
     }
-  }
+}

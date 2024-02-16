@@ -3,6 +3,7 @@
         "FluidMonitoring": "https://smartdatamodels.org/dataModel.CrossSector/FluidMonitoring",
         "fluidType": "https://smartdatamodels.org/dataModel.CrossSector/fluidType",
         "refDevice": "https://smartdatamodels.org/dataModel.Device/refDevice",
+        "isConnected ": "https://vocab.egm.io/isConnected",
         "consumption": "https://smartdatamodels.org/dataModel.CrossSector/consumption"
     }
 }
