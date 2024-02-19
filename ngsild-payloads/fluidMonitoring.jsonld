@@ -9,6 +9,14 @@
         "type": "Property",
         "value": true
     },
+    "retrievalState": {
+        "type": "Property",
+        "value": "IN_PROGRESS",
+        "lastStartDate": {
+            "type": "Property",
+            "value": "2023-11-14"
+        }
+    },
     "consumption": [
         {
             "type": "Property",
