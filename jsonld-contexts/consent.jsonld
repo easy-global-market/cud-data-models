@@ -1,11 +1,9 @@
 {
     "@context": {
-        "endsAt": "https://vocab.egm.io/endsAt",
         "provider": "https://vocab.egm.io/provider",
         "reason": "https://vocab.egm.io/reason",
         "refFluid": "https://vocab.egm.io/refFluid",
         "revokedOn": "https://vocab.egm.io/revokedOn",
-        "startsAt": "https://vocab.egm.io/startsAt",
         "UserConsent": "https://vocab.egm.io/UserConsent",
         "validFrom": "https://vocab.egm.io/validFrom",
         "validTo": "https://vocab.egm.io/validTo"

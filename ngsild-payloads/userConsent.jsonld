@@ -24,5 +24,9 @@
     "meterReference": {
         "type": "Property",
         "value": "22516914714270"
+    },
+    "refFluid": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:FluidMonitoring:950362C9-E675-4548-A08D-6B293B1C5FE0"
     }
 }
