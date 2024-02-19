@@ -1,13 +1,13 @@
 {
-    "id": "urn:ngsi-ld:FluidMonitoring:AAA-111-CCC",
+    "id": "urn:ngsi-ld:FluidMonitoring:950362C9-E675-4548-A08D-6B293B1C5FE0",
     "type": "FluidMonitoring",
-    "refDevice": {
-        "type": "Relationship",
-        "object": "urn:ngsi-ld:Device:AAA-111-CCC"
-    },
     "fluidType": {
         "type": "Property",
         "value": "Electricity"
+    },
+    "isConnected": {
+        "type": "Property",
+        "value": true
     },
     "consumption": [
         {
