@@ -1,0 +1,32 @@
+{
+    "id": "urn:ngsi-ld:UserConsent:950362C9-E675-4548-A08D-6B293B1C5FE0",
+    "type": "UserConsent",
+    "provider": {
+        "type": "Property",
+        "value": "Enedis"
+    },
+    "validFrom": {
+        "type": "Property",
+        "value": "2024-02-19T00:00:00Z"
+    },
+    "validTo": {
+        "type": "Property",
+        "value": "2027-02-19T00:00:00Z"
+    },
+    "revokedOn": {
+        "type": "Property",
+        "value": "2025-01-01T12:00:00Z",
+        "reason": {
+            "type": "Property",
+            "value": "Received a 403 error when trying to get new comsumption"
+        }
+    },
+    "meterReference": {
+        "type": "Property",
+        "value": "22516914714270"
+    },
+    "refFluid": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:FluidMonitoring:950362C9-E675-4548-A08D-6B293B1C5FE0"
+    }
+}

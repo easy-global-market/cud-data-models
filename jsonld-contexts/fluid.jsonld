@@ -1,9 +1,10 @@
 {
     "@context": {
+        "consumption": "https://smartdatamodels.org/dataModel.CrossSector/consumption",
         "FluidMonitoring": "https://smartdatamodels.org/dataModel.CrossSector/FluidMonitoring",
         "fluidType": "https://smartdatamodels.org/dataModel.CrossSector/fluidType",
-        "refDevice": "https://smartdatamodels.org/dataModel.Device/refDevice",
         "isConnected ": "https://vocab.egm.io/isConnected",
-        "consumption": "https://smartdatamodels.org/dataModel.CrossSector/consumption"
+        "meterReference": "https://smartdatamodels.org/dataModel.CrossSector/meterReference",
+        "refDevice": "https://smartdatamodels.org/dataModel.Device/refDevice"
     }
 }
