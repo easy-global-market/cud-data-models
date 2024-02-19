@@ -1,0 +1,11 @@
+{
+	"@context": {
+		"UserConsent": "https://vocab.egm.io/UserConsent",
+		"endsAt": "https://vocab.egm.io/endsAt",
+		"provider": "https://vocab.egm.io/provider",
+		"refFluid": "https://vocab.egm.io/refFluid",
+		"startsAt": "https://vocab.egm.io/startsAt",
+		"validityPeriod": "https://vocab.egm.io/validityPeriod",
+		"version": "https://vocab.egm.io/version"
+	}
+}
