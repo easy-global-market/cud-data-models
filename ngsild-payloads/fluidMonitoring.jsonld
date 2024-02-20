@@ -9,10 +9,10 @@
         "type": "Property",
         "value": true
     },
-    "retrievalState": {
+    "retrievalStatus": {
         "type": "Property",
         "value": "IN_PROGRESS",
-        "lastStartDate": {
+        "lastRetrievedStartDate": {
             "type": "Property",
             "value": "2023-11-14"
         }
