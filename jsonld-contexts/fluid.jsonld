@@ -1,10 +1,12 @@
 {
     "@context": {
-        "consumption": "https://smartdatamodels.org/dataModel.CrossSector/consumption",
-        "FluidMonitoring": "https://smartdatamodels.org/dataModel.CrossSector/FluidMonitoring",
-        "fluidType": "https://smartdatamodels.org/dataModel.CrossSector/fluidType",
+        "consumption": "https://vocab.egm.io/consumption",
+        "FluidMonitoring": "https://vocab.egm.io/FluidMonitoring",
+        "fluidType": "https://vocab.egm.io/fluidType",
+        "lastRetrievedStartDate": "https://vocab.egm.io/lastRetrievedStartDate",
         "isConnected ": "https://vocab.egm.io/isConnected",
-        "meterReference": "https://smartdatamodels.org/dataModel.CrossSector/meterReference",
-        "refDevice": "https://smartdatamodels.org/dataModel.Device/refDevice"
+        "meterReference": "https://vocab.egm.io/meterReference",
+        "refDevice": "https://vocab.egm.io/refDevice",
+        "retrievalStatus": "https://vocab.egm.io/retrievalStatus"
     }
 }
