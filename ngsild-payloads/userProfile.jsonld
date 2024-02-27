@@ -103,5 +103,15 @@
             "COMPUTER",
             "WASHING_MACHINE"
         ]
+    },
+    "hasConsent": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:UserConsent:Enedis:950362C9-E675-4548-A08D-6B293B1C5FE0",
+        "datasetId": "urn:ngsi-ld:Dataset:Enedis"
+    },
+    "hasFluidMonitoring": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:FluidMonitoring:Electricity:950362C9-E675-4548-A08D-6B293B1C5FE0",
+        "datasetId": "urn:ngsi-ld:Dataset:Electricity"
     }
 }

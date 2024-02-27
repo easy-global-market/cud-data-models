@@ -1,5 +1,5 @@
 {
-    "id": "urn:ngsi-ld:UserConsent:950362C9-E675-4548-A08D-6B293B1C5FE0",
+    "id": "urn:ngsi-ld:UserConsent:Enedis:950362C9-E675-4548-A08D-6B293B1C5FE0",
     "type": "UserConsent",
     "provider": {
         "type": "Property",
