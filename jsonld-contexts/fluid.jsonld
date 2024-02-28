@@ -7,6 +7,7 @@
         "isConnected ": "https://vocab.egm.io/isConnected",
         "meterReference": "https://vocab.egm.io/meterReference",
         "refDevice": "https://vocab.egm.io/refDevice",
-        "retrievalStatus": "https://vocab.egm.io/retrievalStatus"
+        "retrievalStatus": "https://vocab.egm.io/retrievalStatus",
+        "lastStartDate": "https://vocab.egm.io/lastStartDate"
     }
 }

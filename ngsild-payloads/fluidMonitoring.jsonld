@@ -1,5 +1,5 @@
 {
-    "id": "urn:ngsi-ld:FluidMonitoring:950362C9-E675-4548-A08D-6B293B1C5FE0",
+    "id": "urn:ngsi-ld:FluidMonitoring:Electricity:950362C9-E675-4548-A08D-6B293B1C5FE0",
     "type": "FluidMonitoring",
     "fluidType": {
         "type": "Property",
@@ -8,6 +8,11 @@
     "isConnected": {
         "type": "Property",
         "value": true
+    },
+    "meterReference": {
+        "type": "Property",
+        "value": "22516914714270",
+        "observedAt": "2024-02-26T16:39:00Z"
     },
     "retrievalStatus": {
         "type": "Property",
