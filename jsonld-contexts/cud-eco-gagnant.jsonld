@@ -1,7 +1,7 @@
 {
   "@context": [
     "https://easy-global-market.github.io/ngsild-api-data-models/authorization/jsonld-contexts/authorization.jsonld",
-    "https://easy-global-market.github.io/ngsild-api-data-models/twinPicks/jsonld-contexts/dcat.jsonld",
+    "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
     "https://easy-global-market.github.io/cud-data-models/jsonld-contexts/challenge.jsonld",
     "https://easy-global-market.github.io/cud-data-models/jsonld-contexts/user.jsonld",
     "https://easy-global-market.github.io/cud-data-models/jsonld-contexts/fluid.jsonld",
