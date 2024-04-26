@@ -4,10 +4,7 @@
   "entities": [
     {
       "id": "urn:ngsi-ld:Event:7a08a58e-e613-4cc0-9160-8a2636970721",
-      "type": [
-        "Event",
-        "AggregatedThresholdBreach"
-      ]
+      "type": "AggregatedThresholdBreach"
     }
   ],
   "watchedAttributes": [
@@ -19,6 +16,5 @@
       "uri": "http://localhost:8080",
       "accept": "application/json"
     }
-  },
-  "status": "active"
+  }
 }

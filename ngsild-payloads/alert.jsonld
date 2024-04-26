@@ -21,17 +21,9 @@
     }
   },
   "occurrence": {
-    "value": true,
-    "observedAt": "2024-04-18T16:40:00Z",
     "type": "Property",
-    "sentTo": {
-      "type": "Property",
-      "value": {
-        "email": [
-          "user@email.com"
-        ]
-      }
-    }
+    "value": true,
+    "observedAt": "2024-04-18T16:40:00Z"
   },
   "triggeredBy": {
     "type": "Property",

@@ -30,7 +30,7 @@
     "type": "Property",
     "value": "500"
   },
-  "aggrThresholdPeriod": {
+  "thresholdAggrPeriod": {
     "type": "Property",
     "value": "P7D"
   },
