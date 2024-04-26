@@ -1,0 +1,22 @@
+{
+  "id": "urn:ngsi-ld:Subscription:7a08a58e-e613-4cc0-9160-8a2636970721",
+  "type": "Subscription",
+  "entities": [{
+    "id": "urn:ngsi-ld:Event:7a08a58e-e613-4cc0-9160-8a2636970721",
+    "type": [
+        "Event",
+        "AggregatedThresholdBreach"
+    ]
+  }],
+  "watchedAttributes": [
+     "occurrence"
+  ],
+  "notification": {
+      "format": "normalized",
+       "endpoint": {
+            "uri": "http://localhost:8080",
+            "accept": "application/json"
+      }
+  },
+"status": "active"
+}
