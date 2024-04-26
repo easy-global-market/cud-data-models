@@ -1,36 +1,40 @@
 {
   "id": "urn:ngsi-ld:Alert:7a08a58e-e613-4cc0-9160-8a2636970721",
   "type": "Alert",
-   "hasSubject": {
-       "type": "Relationship",
-       "object": "urn:ngsi-ld:Event:7a08a58e-e613-4cc0-9160-8a2636970721"
-   },
-   "mailingList": {
-        "type": "Property",
-        "value": {
-          "email": ["user@email.com"]
-        }
-   },
-   "message": {
-       "type": "Property",
-       "value": {
-          "body": "[body of the mail]",
-           "subject": "[ALERT] Electricity consumption exceeded set value"
-       }
-   },
-   "occurrence": {
-       "value": true,
-       "observedAt": "2024-04-18T16:40:00Z",
-       "type": "Property",
-       "sentTo": {
-           "type": "Property",
-             "value": {
-                "email": ["user@email.com"]
-             }
-       }
-   },
-   "triggeredBy": {
-        "type": "Property",
-        "value": "urn:ngsi-ld:Subscription:7a08a58e-e613-4cc0-9160-8a2636970721"
-   }
+  "hasSubject": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:Event:7a08a58e-e613-4cc0-9160-8a2636970721"
+  },
+  "mailingList": {
+    "type": "Property",
+    "value": {
+      "email": [
+        "user@email.com"
+      ]
+    }
+  },
+  "message": {
+    "type": "Property",
+    "value": {
+      "body": "[body of the mail]",
+      "subject": "[ALERT] Electricity consumption exceeded set value"
+    }
+  },
+  "occurrence": {
+    "value": true,
+    "observedAt": "2024-04-18T16:40:00Z",
+    "type": "Property",
+    "sentTo": {
+      "type": "Property",
+      "value": {
+        "email": [
+          "user@email.com"
+        ]
+      }
+    }
+  },
+  "triggeredBy": {
+    "type": "Property",
+    "value": "urn:ngsi-ld:Subscription:7a08a58e-e613-4cc0-9160-8a2636970721"
+  }
 }
