@@ -14,8 +14,8 @@
     }
   },
   "message": {
-    "type": "Property",
-    "value": {
+    "type": "JsonProperty",
+    "json": {
       "body": "[body of the mail]",
       "subject": "[ALERT] Electricity consumption exceeded set value"
     }
