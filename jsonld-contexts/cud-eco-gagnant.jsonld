@@ -6,6 +6,7 @@
     "https://easy-global-market.github.io/cud-data-models/jsonld-contexts/user.jsonld",
     "https://easy-global-market.github.io/cud-data-models/jsonld-contexts/fluid.jsonld",
     "https://easy-global-market.github.io/cud-data-models/jsonld-contexts/consent.jsonld",
-    "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.7.jsonld"
+    "https://easy-global-market.github.io/ngsild-api-data-models/alertEventRisk/jsonld-contexts/alertEventRisk.jsonld",
+    "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.8.jsonld"
   ]
 }

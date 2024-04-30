@@ -1,0 +1,41 @@
+{
+  "id": "urn:ngsi-ld:Event:7a08a58e-e613-4cc0-9160-8a2636970721",
+  "type": [
+    "Event",
+    "AggregatedThresholdBreach"
+  ],
+  "hasSubject": {
+    "type": "Relationship",
+    "watchedProperties": {
+      "type": "Property",
+      "value": "consumption"
+    },
+    "object": "urn:ngsi-ld:FluidMonitoring:Electricity:7a08a58e-e613-4cc0-9160-8a2636970721"
+  },
+  "occurrence": {
+    "type": "Property",
+    "value": "510",
+    "observedAt": "2024-04-18T16:39:00Z"
+  },
+  "status": {
+    "type": "Property",
+    "value": "true",
+    "observedAt": "2024-04-18T16:39:00Z"
+  },
+  "thresholdType": {
+    "type": "Property",
+    "value": "Upper"
+  },
+  "thresholdValue": {
+    "type": "Property",
+    "value": "500"
+  },
+  "thresholdAggrPeriod": {
+    "type": "Property",
+    "value": "P7D"
+  },
+  "hasAlert": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:Alert:7a08a58e-e613-4cc0-9160-8a2636970721"
+  }
+}
