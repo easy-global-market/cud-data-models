@@ -14,7 +14,7 @@
   },
   "occurrence": {
     "type": "Property",
-    "value": "510",
+    "value": 510,
     "observedAt": "2024-04-18T16:39:00Z"
   },
   "status": {
@@ -28,7 +28,7 @@
   },
   "thresholdValue": {
     "type": "Property",
-    "value": "500"
+    "value": 500
   },
   "thresholdAggrPeriod": {
     "type": "Property",
