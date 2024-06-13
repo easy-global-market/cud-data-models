@@ -1,6 +1,10 @@
 {
     "id": "urn:ngsi-ld:UserProfile:romain.magnani@egm.io",
     "type": "UserProfile",
+    "userInfos": {
+        "type": "JsonProperty",
+        "value": {}
+    },
     "isFirstConnection": {
         "type": "Property",
         "value": false
