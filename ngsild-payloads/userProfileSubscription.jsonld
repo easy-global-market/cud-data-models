@@ -10,7 +10,7 @@
         "entityCreated"
     ],
     "notification": {
-        "format": "normalized",
+        "format": "keyValues",
         "endpoint": {
             "uri": "http://localhost:8080/userProfileCreationListener",
             "accept": "application/json"
