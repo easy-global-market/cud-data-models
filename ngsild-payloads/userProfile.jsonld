@@ -4,8 +4,8 @@
     "userInfos": {
         "type": "JsonProperty",
         "value": {
-            "firstName": "Obi",
-            "lastName": "Wan"
+            "givenName": "Obi",
+            "familyName": "Wan"
         }
     },
     "isFirstConnection": {
