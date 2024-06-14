@@ -3,7 +3,10 @@
     "type": "UserProfile",
     "userInfos": {
         "type": "JsonProperty",
-        "value": {}
+        "value": {
+            firstname: Obi,
+            lastname: Wan
+        }
     },
     "isFirstConnection": {
         "type": "Property",
