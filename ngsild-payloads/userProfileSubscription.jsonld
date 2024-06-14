@@ -1,0 +1,19 @@
+{
+    "id": "urn:ngsi-ld:Subscription:3879b193-7526-43b2-8eae-b6daadc7f9d1",
+    "type": "Subscription",
+    "entities": [
+        {
+            "type": "UserProfile"
+        }
+    ],
+    "notificationTrigger": [
+        "entityCreated"
+    ],
+    "notification": {
+        "format": "keyValues",
+        "endpoint": {
+            "uri": "http://localhost:8080/userProfileCreationListener",
+            "accept": "application/json"
+        }
+    }
+}
