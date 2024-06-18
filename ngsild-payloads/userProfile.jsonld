@@ -5,7 +5,8 @@
         "type": "JsonProperty",
         "value": {
             "givenName": "Obi",
-            "familyName": "Wan"
+            "familyName": "Wan",
+            "email": "obi.wan@egm.io"
         }
     },
     "isFirstConnection": {
