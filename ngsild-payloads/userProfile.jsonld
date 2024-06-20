@@ -13,6 +13,18 @@
         "type": "Property",
         "value": false
     },
+    "customPopupDate": {
+        "type": "Property",
+        "value": "0000-01-01T00:00:00.000Z"
+    },
+    "partnersIssueSeenDate": {
+        "type": "JsonProperty",
+        "json": {
+            "enedis": "0000-01-01T00:00:00.000Z",
+            "suez": "0000-01-01T00:00:00.000Z",
+            "grdf": "0000-01-01T00:00:00.000Z"
+        }
+    },
     "haveSeenLastAnalysis": {
         "type": "Property",
         "value": false
