@@ -1,6 +1,14 @@
 {
     "id": "urn:ngsi-ld:UserProfile:romain.magnani@egm.io",
     "type": "UserProfile",
+    "userInfos": {
+        "type": "JsonProperty",
+        "value": {
+            "givenName": "Obi",
+            "familyName": "Wan",
+            "email": "obi.wan@egm.io"
+        }
+    },
     "isFirstConnection": {
         "type": "Property",
         "value": false
