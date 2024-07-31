@@ -14,6 +14,10 @@
         "endpoint": {
             "uri": "http://localhost:8080/userDeletionListener",
             "accept": "application/json"
-        }
+        },
+        "attributes": [
+            "hasConsent",
+            "hasFluidMonitoring"
+        ]
     }
 }
