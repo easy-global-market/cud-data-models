@@ -13,6 +13,10 @@
         "type": "Property",
         "value": false
     },
+    "lastConnectionDate": {
+        "type": "Property",
+        "value": "0000-01-01T00:00:00.000Z"
+    },
     "customPopupDate": {
         "type": "Property",
         "value": "0000-01-01T00:00:00.000Z"
