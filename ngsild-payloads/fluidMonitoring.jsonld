@@ -44,5 +44,28 @@
             "observedAt": "2023-12-14T00:00:00Z",
             "datasetId": "urn:ngsi-ld:Dataset:Total"
         }
+    ],
+    "estimatedPrice": [
+        {
+            "type": "Property",
+            "value": 0.696,
+            "unitCode": "EUR",
+            "observedAt": "2023-12-14T00:00:00Z",
+            "datasetId": "urn:ngsi-ld:Dataset:OffPeakHour"
+        },
+        {
+            "type": "Property",
+            "value": 1.044,
+            "unitCode": "EUR",
+            "observedAt": "2023-12-14T00:00:00Z",
+            "datasetId": "urn:ngsi-ld:Dataset:FullHour"
+        },
+        {
+            "type": "Property",
+            "value": 1.74,
+            "unitCode": "EUR",
+            "observedAt": "2023-12-14T00:00:00Z",
+            "datasetId": "urn:ngsi-ld:Dataset:Total"
+        }
     ]
 }

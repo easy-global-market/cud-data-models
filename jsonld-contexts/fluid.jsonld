@@ -1,13 +1,14 @@
 {
     "@context": {
         "consumption": "https://vocab.egm.io/consumption",
+        "estimatedPrice": "https://vocab.egm.io/estimatedPrice",
         "FluidMonitoring": "https://vocab.egm.io/FluidMonitoring",
         "fluidType": "https://vocab.egm.io/fluidType",
-        "lastRetrievedStartDate": "https://vocab.egm.io/lastRetrievedStartDate",
         "isConnected ": "https://vocab.egm.io/isConnected",
+        "lastRetrievedStartDate": "https://vocab.egm.io/lastRetrievedStartDate",
+        "lastStartDate": "https://vocab.egm.io/lastStartDate",
         "meterReference": "https://vocab.egm.io/meterReference",
         "refDevice": "https://vocab.egm.io/refDevice",
-        "retrievalStatus": "https://vocab.egm.io/retrievalStatus",
-        "lastStartDate": "https://vocab.egm.io/lastStartDate"
+        "retrievalStatus": "https://vocab.egm.io/retrievalStatus"
     }
 }
