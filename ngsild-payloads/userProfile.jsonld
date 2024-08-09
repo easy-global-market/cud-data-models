@@ -17,6 +17,20 @@
         "type": "Property",
         "value": "0000-01-01T00:00:00.000Z"
     },
+    "accountExpirationAlert": [
+       {
+           "type" : "Property",
+           "value" : "First alert",
+           "observedAt" : "2024-07-09T00:00:00.000Z",
+           "datasetId" : "urn:ngsi-ld:Dataset:FirstAlert"
+       },
+       {
+           "type" : "Property",
+           "value" : "Second alert",
+           "observedAt" : "2024-07-23T00:00:00.000Z",
+           "datasetId" : "urn:ngsi-ld:Dataset:SecondAlert"
+       }
+    ],
     "customPopupDate": {
         "type": "Property",
         "value": "0000-01-01T00:00:00.000Z"
