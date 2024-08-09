@@ -27,7 +27,7 @@
         "isProfileEcogestureCompleted": "https://smartdatamodels.org/isProfileEcogestureCompleted",
         "isProfileTypeCompleted": "https://smartdatamodels.org/isProfileTypeCompleted",
         "lastConnectionDate": "https://vocab.egm.io/lastConnectionDate",
-        "lastInactivityNotificationDate":"https://vocab.egm.io/lastInactivityNotification",
+        "lastInactivityNotificationDate":"https://vocab.egm.io/lastInactivityNotificationDate",
         "occupantsNumber": "https://smartdatamodels.org/occupantsNumber",
         "outsideFacingWalls": "https://smartdatamodels.org/outsideFacingWalls",
         "partnersIssueSeenDate": "https://vocab.egm.io/partnersIssueSeenDate",
