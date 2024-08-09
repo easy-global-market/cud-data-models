@@ -17,6 +17,10 @@
         "type": "Property",
         "value": "0000-01-01T00:00:00.000Z"
     },
+    "lastInactivityNotification": {
+        "type": "Property",
+        "value": "2024-08-08T09:00:00.000Z"
+    },
     "customPopupDate": {
         "type": "Property",
         "value": "0000-01-01T00:00:00.000Z"
