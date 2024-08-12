@@ -17,6 +17,15 @@
         "type": "Property",
         "value": "0000-01-01T00:00:00.000Z"
     },
+    "accountInactivityFirstAlert": {
+        "type": "Property",
+        "value": "true",
+        "observedAt": "0000-01-01T00:00:00.000Z"
+    },
+    "accountInactivitySecondAlert": {
+        "type": "Property",
+        "value": "false"
+    },
     "customPopupDate": {
         "type": "Property",
         "value": "0000-01-01T00:00:00.000Z"
