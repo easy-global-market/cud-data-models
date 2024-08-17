@@ -1,0 +1,21 @@
+{
+    "id": "urn:ngsi-ld:PriceModel:Electricity:Base",
+    "type": "PriceModel",
+    "fluidType": {
+        "type": "Property",
+        "value": "Electricity"
+    },
+    "name": {
+        "type": "Property",
+        "value": "Tarifs de l'électricité pour l'option Base"
+    },
+    "description": {
+        "type": "Property",
+        "value": "Tarifs réglementés de vente d'électricité Bleu résidentiels (TTC) en France métropolitaine continentale pour les options Base de puissance souscrite inférieure ou égale à 36 kVA"
+    },
+    "price": {
+        "type": "Property",
+        "value": 0.1234,
+        "observedAt": "2024-08-01T00:00:00Z"
+    }
+}

@@ -1,7 +1,6 @@
 {
     "@context": {
         "consumption": "https://vocab.egm.io/consumption",
-        "endDate": "https://vocab.egm.io/endDate",
         "estimatedPrice": "https://vocab.egm.io/estimatedPrice",
         "FluidMonitoring": "https://vocab.egm.io/FluidMonitoring",
         "fluidType": "https://vocab.egm.io/fluidType",
@@ -12,7 +11,6 @@
         "price": "https://vocab.egm.io/price",
         "PriceModel": "https://vocab.egm.io/PriceModel",
         "refDevice": "https://vocab.egm.io/refDevice",
-        "retrievalStatus": "https://vocab.egm.io/retrievalStatus",
-        "startDate": "https://vocab.egm.io/startDate"
+        "retrievalStatus": "https://vocab.egm.io/retrievalStatus"
     }
 }
