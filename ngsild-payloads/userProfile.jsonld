@@ -3,7 +3,7 @@
     "type": "UserProfile",
     "userInfos": {
         "type": "JsonProperty",
-        "value": {
+        "json": {
             "givenName": "Obi",
             "familyName": "Wan",
             "email": "obi.wan@egm.io"
