@@ -1,5 +1,5 @@
 {
-	"id": "urn:ngsi-ld:Subscription:a2aaec94-426d-4857-b85e-ff3684a653ef",
+	"id": "urn:ngsi-ld:Subscription:UserProfileFluidEstimate",
 	"type": "Subscription",
 	"entities": [
 		{
@@ -29,7 +29,7 @@
 	"notification": {
 		"format": "keyValues",
 		"endpoint": {
-			"uri": "http://localhost:8080/userProfileUpdatedListener",
+			"uri": "http://localhost:8080/fluidConsumptionEstimateListener",
 			"accept": "application/json"
 		}
 	}
