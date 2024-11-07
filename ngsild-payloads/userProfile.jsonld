@@ -137,6 +137,10 @@
             "WASHING_MACHINE"
         ]
     },
+    "reminderLastSeenDate": {
+        "type": "Property",
+        "value": "0000-01-01T00:00:00.000Z"
+    },
     "hasConsent": {
         "type": "Relationship",
         "object": "urn:ngsi-ld:UserConsent:Enedis:950362C9-E675-4548-A08D-6B293B1C5FE0",
