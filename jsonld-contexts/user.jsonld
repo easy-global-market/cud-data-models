@@ -34,6 +34,7 @@
         "partnersIssueSeenDate": "https://vocab.egm.io/partnersIssueSeenDate",
         "refChallenge": "https://smartdatamodels.org/refChallenge",
         "refEcogesture": "https://smartdatamodels.org/refEcogesture",
+        "reminderLastSeenDate": "https://vocab.egm.io/reminderLastSeenDate",
         "sendAnalysisNotification": "https://smartdatamodels.org/sendAnalysisNotification",
         "userInfos": "https://vocab.egm.io/userInfos",
         "updateDate": "https://smartdatamodels.org/updateDate",
