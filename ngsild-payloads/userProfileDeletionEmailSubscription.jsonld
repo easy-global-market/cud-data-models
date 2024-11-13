@@ -1,0 +1,22 @@
+{
+	"id": "urn:ngsi-ld:Subscription:UserProfileDeletion:EmailNotification",
+	"type": "Subscription",
+	"entities": [
+		{
+			"type": "UserProfile"
+		}
+	],
+	"notificationTrigger": [
+		"entityDeleted"
+	],
+	"notification": {
+		"format": "keyValues",
+		"endpoint": {
+			"uri": "http://localhost:8080/accountDeletionListener",
+			"accept": "application/json"
+		},
+		"attributes": [
+			"userInfos"
+		]
+	}
+}
