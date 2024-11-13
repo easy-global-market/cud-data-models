@@ -1,5 +1,5 @@
 {
-	"id": "urn:ngsi-ld:Subscription:AccountDeletion",
+	"id": "urn:ngsi-ld:Subscription:UserProfileDeletion:EmailNotification",
 	"type": "Subscription",
 	"entities": [
 		{
