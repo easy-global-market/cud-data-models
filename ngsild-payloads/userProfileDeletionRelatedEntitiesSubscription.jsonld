@@ -1,5 +1,5 @@
 {
-    "id": "urn:ngsi-ld:Subscription:UserProfileDeletion:RelatedEntitiesNotification",
+    "id": "urn:ngsi-ld:Subscription:UserProfileDeletion:RelatedEntitiesDeletionNotification",
     "type": "Subscription",
     "entities": [
         {
