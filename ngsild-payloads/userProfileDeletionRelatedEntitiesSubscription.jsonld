@@ -1,5 +1,5 @@
 {
-    "id": "urn:ngsi-ld:Subscription:1f95dc0e-4b15-4a2f-83fc-243eb9234adc",
+    "id": "urn:ngsi-ld:Subscription:UserProfileDeletion:FluidEntitiesDeletion",
     "type": "Subscription",
     "entities": [
         {
