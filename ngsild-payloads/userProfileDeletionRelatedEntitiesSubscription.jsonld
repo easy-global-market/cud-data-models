@@ -12,7 +12,7 @@
     "notification": {
         "format": "keyValues",
         "endpoint": {
-            "uri": "http://localhost:8080/userDeletionListener",
+            "uri": "http://localhost:8080/userProfileDeletionFluidEntitiesListener",
             "accept": "application/json"
         },
         "attributes": [

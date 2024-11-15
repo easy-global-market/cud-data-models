@@ -1,5 +1,5 @@
 {
-    "id": "urn:ngsi-ld:Subscription:3879b193-7526-43b2-8eae-b6daadc7f9d1",
+    "id": "urn:ngsi-ld:Subscription:UserProfileCreation:EmailNotification",
     "type": "Subscription",
     "entities": [
         {
@@ -12,7 +12,7 @@
     "notification": {
         "format": "keyValues",
         "endpoint": {
-            "uri": "http://localhost:8080/userProfileCreationListener",
+            "uri": "http://localhost:8080/userProfileCreationEmailListener",
             "accept": "application/json"
         }
     }
