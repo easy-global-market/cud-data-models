@@ -1,5 +1,5 @@
 {
-  "id": "urn:ngsi-ld:Subscription:7a08a58e-e613-4cc0-9160-8a2636970721",
+  "id": "urn:ngsi-ld:Subscription:AggregatedThresholdBreach:OccurrenceModification",
   "type": "Subscription",
   "entities": [
     {
@@ -13,7 +13,7 @@
   "notification": {
     "format": "normalized",
     "endpoint": {
-      "uri": "http://localhost:8080",
+      "uri": "http://localhost:8080/eventOccurrenceModifiedListener",
       "accept": "application/json"
     }
   }

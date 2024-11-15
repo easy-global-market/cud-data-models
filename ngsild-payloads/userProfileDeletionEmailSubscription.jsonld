@@ -12,7 +12,7 @@
 	"notification": {
 		"format": "keyValues",
 		"endpoint": {
-			"uri": "http://localhost:8080/accountDeletionListener",
+			"uri": "http://localhost:8080/userProfileDeletionEmailListener",
 			"accept": "application/json"
 		},
 		"attributes": [
